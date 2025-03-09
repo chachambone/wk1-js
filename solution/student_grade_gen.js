@@ -20,6 +20,7 @@ function grade_gen(){
         grade = "E";
     }
 
-
+    
     alert(`Marks: ${marks}\nGrade: ${grade}`);
+    console.log(`Marks: ${marks}, Grade: ${grade}`);
 }
