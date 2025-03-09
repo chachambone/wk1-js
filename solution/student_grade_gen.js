@@ -1,11 +1,16 @@
 function grade_gen(){
     let marks = prompt("Input students marks")
+
+    // Convert input to a number
     marks = parseFloat(marks)
 
+    // Validate input
     if (isNaN(marks) || marks < 0 || marks > 100) {
         alert("Invalid input! Please enter a number between 0 and 100.");
         return;
     }
+
+    // Determine grade 
 
     let grade;
     if (marks > 79) {
@@ -20,7 +25,7 @@ function grade_gen(){
         grade = "E";
     }
 
-    
+    // Display output
     alert(`Marks: ${marks}\nGrade: ${grade}`);
     console.log(`Marks: ${marks}, Grade: ${grade}`);
 }
