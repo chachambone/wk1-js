@@ -25,3 +25,21 @@ This JavaScript function checks a car's speed and determines the appropriate pen
 > Speed = 85 km/h → Output: "Points: 3" (15 km/h over the limit, 3 points)
 
 
+# Net Salary Calculator
+This JavaScript function calculates the net salary after deductions for PAYE (tax), NHIF (National Hospital Insurance Fund), and NSSF (National Social Security Fund) based on the user's salary and benefits.
+
+## Features:
+- Prompts the user to enter their basic salary and benefits.
+- Calculates the gross salary (sum of basic salary and benefits).
+- Determines the appropriate tax rate based on the gross salary.
+- Calculates the P.A.Y.E (Tax), NHIF deductions, and NSSF deductions.
+- Displays the net salary after deductions.
+
+## Tax Brackets:
+- Gross Salary <= 24,000: 10% tax
+- 24,001 <= Gross Salary <= 32,333: 25% tax
+- 32,334 <= Gross Salary <= 500,000: 30% tax
+- 500,001 <= Gross Salary <= 800,000: 32.5% tax
+- Gross Salary > 800,000: 35% tax
+
+
