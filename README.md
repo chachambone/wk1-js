@@ -47,7 +47,7 @@ This JavaScript function calculates the net salary after deductions for PAYE (ta
 
 Clone the Repository: Clone the repository to your local machine using the following command:
 
-> git clone https://github.com/chachambone/wk1-js.git
+`git clone https://github.com/chachambone/wk1-js.git`
 
 
 
