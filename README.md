@@ -45,9 +45,23 @@ This JavaScript function calculates the net salary after deductions for PAYE (ta
 
 # Installation and Usage
 
-Clone the Repository: Clone the repository to your local machine using the following command:
+### Clone the Repository: Clone the repository to your local machine using the following command:
 
 `git clone https://github.com/chachambone/wk1-js.git`
+
+### Open the Project in Visual Studio Code (VS Code):
+
+- Navigate to the project folder:
+
+`cd wk1-js`
+
+- Open the folder in VS Code:
+
+`code .`
+
+
+
+
 
 
 
