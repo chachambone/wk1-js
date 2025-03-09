@@ -43,3 +43,11 @@ This JavaScript function calculates the net salary after deductions for PAYE (ta
 - Gross Salary > 800,000: 35% tax
 
 
+# Installation and Usage
+
+Clone the Repository: Clone the repository to your local machine using the following command:
+
+> git clone https://github.com/chachambone/wk1-js.git
+
+
+
